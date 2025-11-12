@@ -1,0 +1,23 @@
+Usuário: oi, estou com um problema na entrada USB do meu notebook.
+
+Copilot: Olá! Tudo ótimo por aqui, espero que com você também. Vou te ajudar com isso. Pode me explicar o que está acontecendo com a entrada USB?
+
+Usuário: ela parou de funcionar. nenhum dispositivo que eu conecto é reconhecido, nem pendrive, nem mouse, NADA.
+
+Copilot: Entendi. Isso pode ter algumas causas. Você já testou essas portas com outros dispositivos ou em diferentes entradas do notebook?
+
+Usuário: sim, testei com três pendrives e dois mouses. Nenhum funcionou. e as portas são diferentes, mas nenhuma responde.
+
+Copilot: Obrigado por confirmar. Você chegou a verificar no Gerenciador de Dispositivos se há algum erro ou driver desatualizado?
+
+Usuário: aparece um alerta amarelo em controlador USB. tentei atualizar o driver, mas não resolveu.
+
+Copilot: Isso ajuda bastante. Pode ser um problema de driver corrompido ou falha física. Você gostaria de tentar reinstalar os drivers ou prefere abrir um chamado para assistência técnica?
+
+Usuário: melhor abrir um chamado. não quero mexer muito e piorar.
+
+Copilot: Sem problemas. Me informe seu e-mail e o modelo do notebook, por favor.
+
+Usuário: blablabla@email.com — modelo é Dell Inspiron 15 3000.
+
+Copilot: Obrigado. Seu chamado foi registrado. Em até 48 horas úteis nossa equipe entrará em contato com instruções para diagnóstico e reparo. Posso te ajudar com mais alguma coisa?
