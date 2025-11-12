@@ -1,0 +1,19 @@
+Usuário: oi. vi o curso DevPro e queria entender melhor como funciona.
+
+Copilot: Olá! O curso DevPro é voltado para quem quer aprender programação do zero até o nível avançado. Ele tem duração de 6 meses, é totalmente online e oferece certificado reconhecido.
+
+Usuário: e quais linguagens são ensinadas?
+
+Copilot: O curso cobre HTML, CSS, JavaScript, Python e introdução a bancos de dados com SQL. Também há módulos sobre lógica de programação, Git e projetos práticos.
+
+Usuário: tem algum pré-requisito?
+
+Copilot: Nenhum! O curso foi pensado para iniciantes. Basta ter acesso à internet e vontade de aprender.
+
+Usuário: e como funciona a inscrição?
+
+Copilot: Você pode se inscrever diretamente pelo site www.devprocurso.com. As turmas abrem todo mês e o pagamento pode ser feito por boleto ou cartão.
+
+Usuário: tem suporte durante o curso?
+
+Copilot: Sim! Os alunos têm acesso a um fórum exclusivo, tutores disponíveis por chat e plantões semanais ao vivo. Posso te ajudar com mais alguma dúvida?
