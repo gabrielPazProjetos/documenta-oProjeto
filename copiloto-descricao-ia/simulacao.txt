@@ -1,0 +1,23 @@
+Usuário: oi, estou querendo mudar de área e procurar um emprego novo.
+
+Copilot: Olá! Que bom que você está aqui. Posso te ajudar a encontrar oportunidades que combinem com seu perfil. Você já tem alguma área em mente?
+
+Usuário: sim, estou pensando em migrar para a área de marketing digital. tenho experiência com redes sociais e produção de conteúdo.
+
+Copilot: Excelente! Marketing digital é uma área com muitas oportunidades. Você está buscando vagas presenciais ou remotas?
+
+Usuário: remotas, de preferência.
+
+Copilot: Perfeito. Já estou buscando vagas remotas em marketing digital. Você tem alguma formação ou certificação na área?
+
+Usuário: fiz um curso de marketing de conteúdo e tenho certificação em Google Ads.
+
+Copilot: Ótimo! Isso aumenta bastante suas chances. Aqui estão algumas vagas que podem te interessar:
+1. Social Media – Agência Criativa (Remoto)
+2. Especialista em Conteúdo – Startup de Educação (Remoto)
+3. Analista de Marketing Digital – Empresa de Tecnologia (Remoto)
+Quer que eu envie os links para candidatura ou deseja filtrar por faixa salarial?
+
+Usuário: pode filtrar por vagas acima de 3.000 reais?
+
+Copilot: Claro! Filtrando… Aqui estão as vagas com remuneração acima de R$ 3.000. Deseja salvar essas opções ou receber por e-mail?
